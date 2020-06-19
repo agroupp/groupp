@@ -1,3 +1,1 @@
-export function entity(): string {
-  return 'entity';
-}
+export * from './mongo';

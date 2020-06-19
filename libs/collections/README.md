@@ -1,6 +1,6 @@
-# collections
+# Collections
 
-This library was generated with [Nx](https://nx.dev).
+This library is a toolbox to work with arrays.
 
 ## Running unit tests
 

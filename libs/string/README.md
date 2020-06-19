@@ -1,6 +1,6 @@
 # string
 
-This library was generated with [Nx](https://nx.dev).
+This library is a toolbox to work with strings and text.
 
 ## Running unit tests
 
