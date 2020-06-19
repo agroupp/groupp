@@ -18,5 +18,18 @@
       }
     }
   },
-  "projects": {}
+  "projects": {
+    "collections": {
+      "tags": []
+    },
+    "string": {
+      "tags": []
+    },
+    "entity": {
+      "tags": []
+    },
+    "random": {
+      "tags": []
+    }
+  }
 }

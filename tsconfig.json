@@ -15,7 +15,12 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@groupp/collections": ["libs/collections/src/index.ts"],
+      "@groupp/string": ["libs/string/src/index.ts"],
+      "@groupp/entity": ["libs/entity/src/index.ts"],
+      "@groupp/random": ["libs/random/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
